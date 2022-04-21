@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+logdir/
+MBRL*/
+*.sh
+*.pdf
+*.ipynb
+plotting_*/
